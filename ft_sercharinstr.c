@@ -10,6 +10,9 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+//avevo sicuramente le idee confuse, bisogna passare una stringa e un carattere,
+//altrimenti per come è scritto ora si verifica sempre LOL (correggo in un secondo momentoi)
+
 int sercharinstr(char *str)
 {
 	int i;
